@@ -25,3 +25,5 @@ AutoDict_*
 *.log
 *.png
 *.pdf
+*.sh
+core*

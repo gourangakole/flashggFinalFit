@@ -181,9 +181,9 @@ def getSigHistos(ws, procs, suffix): #ok so they are not histos anymore but rood
     mass = ws.var("CMS_hgg_mass")
     for name in procs:
       ws.data(name+suffix).Print()
-    slurpDic = { name : ws.data(name+suffix) for name in procs}
+    slurpDic = dict([ (name,ws.data(name+suffix)) for name in procs])
     # filter out histos that are null pointers
-    return { k : v for k, v in slurpDic.iteritems() if v }
+    return dict([ (k,v) for k, v in slurpDic.iteritems() if v ])
 
 
 
@@ -244,7 +244,7 @@ for point,M in enumerate(Masses):
       histos = getSigHistos(ws, procs, suffix)
 
       #integrals = { proc : h.Integral() for (proc, h) in histos.iteritems()}
-      integrals = { proc : h.sumEntries() for (proc, h) in histos.iteritems()}
+      integrals = dict([ (proc,h.sumEntries()) for (proc, h) in histos.iteritems()])
       print "integralsf for M ",M ," ", integrals
 
       procLine = 'cat %s, mH=%3.1f:'%(i, M)
