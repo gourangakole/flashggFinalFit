@@ -1049,7 +1049,7 @@ def plot2DNLL(xvar="RF",yvar="RV",xtitle="#mu_{ggH+ttH}",ytitle="#mu_{qqH+VH}"):
           factor=newContent/th2.GetBinContent(i,j) 
           th2.SetBinContent(i,j,newContent*factor)
         else:
-        prevBin= th2.GetBinContent(i,j)
+          prevBin= th2.GetBinContent(i,j)
     ############## Simple spike killer ##########
 
     gBF = r.TGraph()

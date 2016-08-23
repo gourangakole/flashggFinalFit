@@ -1,0 +1,24 @@
+vbf_VBFTag_1__rv_13TeV --> & mh 120 & mh 125 & mh 130 \ 
+vbf_VBFTag_1__rv_13TeV dm0 & -7.07642 & -7.74976 & -7.75946 \ 
+vbf_VBFTag_1__rv_13TeV sigma0 & 15.875 & 15.5227 & 15.8708 \ 
+vbf_VBFTag_1__rv_13TeV dm1 & -0.758381 & -0.835533 & -0.774925 \ 
+vbf_VBFTag_1__rv_13TeV sigma1 & 2.32934 & 2.56325 & 2.58094 \ 
+vbf_VBFTag_1__rv_13TeVcoeff0 & 0.00904502 & 0.00962905 & 0.0110452 \ 
+vbf_VBFTag_1__rv_13TeV dm2 & -5.70821 & -6.2604 & -6.1778 \ 
+vbf_VBFTag_1__rv_13TeV sigma2 & 4.92913 & 5.2858 & 4.9297 \ 
+vbf_VBFTag_1__rv_13TeVcoeff1 & 0.3527 & 0.319962 & 0.332781 \ 
+vbf_VBFTag_1__rv_13TeV dm3 & -0.304592 & -0.260498 & -0.261514 \ 
+vbf_VBFTag_1__rv_13TeV sigma3 & 2.65026 & 2.98616 & 2.65018 \ 
+vbf_VBFTag_1__rv_13TeVcoeff2 & 0.0537198 & 0.0500541 & 0.0546329 \ 
+vbf_VBFTag_1__rv_13TeV dm4 & -0.173469 & -0.191454 & -0.173582 \ 
+vbf_VBFTag_1__rv_13TeV sigma4 & 1.18618 & 1.21317 & 1.26404 \ 
+vbf_VBFTag_1__rv_13TeVcoeff3 & 0.0819578 & 0.0744692 & 0.067685 \ 
+vbf_VBFTag_1__wv_13TeV --> & mh 120 & mh 125 & mh 130 \ 
+vbf_VBFTag_1__wv_13TeV dm0 & -7.20238 & -6.94669 & -7.18199 \ 
+vbf_VBFTag_1__wv_13TeV sigma0 & 5.92885 & 5.62301 & 5.92475 \ 
+vbf_VBFTag_1__wv_13TeV dm1 & 8.06834 & 8.06893 & 6.60415 \ 
+vbf_VBFTag_1__wv_13TeV sigma1 & 8.90366 & 8.90758 & 7.29046 \ 
+vbf_VBFTag_1__wv_13TeVcoeff0 & 0.0613217 & 0.0593132 & 0.0552186 \ 
+vbf_VBFTag_1__wv_13TeV dm2 & -0.404057 & -0.442258 & -0.422671 \ 
+vbf_VBFTag_1__wv_13TeV sigma2 & 3.03871 & 3.32258 & 3.24867 \ 
+vbf_VBFTag_1__wv_13TeVcoeff1 & 0.0156017 & 0.0173717 & 0.015084 \ 

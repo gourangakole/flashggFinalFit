@@ -1,0 +1,18 @@
+zh_UntaggedTag_1__rv_13TeV --> & mh 120 & mh 125 & mh 130 \ 
+zh_UntaggedTag_1__rv_13TeV dm0 & -3.97257 & -3.77824 & -3.8577 \ 
+zh_UntaggedTag_1__rv_13TeV sigma0 & 6.37039 & 7.03414 & 7.77882 \ 
+zh_UntaggedTag_1__rv_13TeV dm1 & -0.182046 & -0.203404 & -0.186693 \ 
+zh_UntaggedTag_1__rv_13TeV sigma1 & 1.25694 & 1.34814 & 1.35506 \ 
+zh_UntaggedTag_1__rv_13TeVcoeff0 & 0.0269462 & 0.0246411 & 0.0268543 \ 
+zh_UntaggedTag_1__rv_13TeV dm2 & 7.20032 & 8.11149 & 7.2367 \ 
+zh_UntaggedTag_1__rv_13TeV sigma2 & 17.84 & 21.7988 & 21.7601 \ 
+zh_UntaggedTag_1__rv_13TeVcoeff1 & 0.92998 & 0.926724 & 0.928917 \ 
+zh_UntaggedTag_1__rv_13TeV dm3 & -3.5222 & -3.19666 & -3.51805 \ 
+zh_UntaggedTag_1__rv_13TeV sigma3 & 1.69155 & 1.73346 & 1.93019 \ 
+zh_UntaggedTag_1__rv_13TeVcoeff2 & 0.0279165 & 0.0326789 & 0.0292143 \ 
+zh_UntaggedTag_1__wv_13TeV --> & mh 120 & mh 125 & mh 130 \ 
+zh_UntaggedTag_1__wv_13TeV dm0 & -6.9049 & -8.26055 & -6.78572 \ 
+zh_UntaggedTag_1__wv_13TeV sigma0 & 3.53727 & 3.98543 & 3.98501 \ 
+zh_UntaggedTag_1__wv_13TeV dm1 & 0.144871 & 0.174167 & 0.144815 \ 
+zh_UntaggedTag_1__wv_13TeV sigma1 & 3.00797 & 2.70154 & 3.00678 \ 
+zh_UntaggedTag_1__wv_13TeVcoeff0 & 0.040124 & 0.0399524 & 0.0486491 \ 
